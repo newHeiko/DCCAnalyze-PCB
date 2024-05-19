@@ -54,7 +54,7 @@ The device can decode the DCC signal either from the loconet(r) plug and its Rai
 
 Power can come from the USB connection (then the DCC inputs both are optically isolated from everything else) or from the DCC / Railsync signal (then the USB connection is not required and the device can be used stand-alone).
 
-The switch SW1 switches the device power from USB to DCC/Railsync.
+The switch SW1 switches the device power from USB to DCC/Railsync. It should fit vertically between the RJ12 socket and the LCD / 4mm plugs.
 
 ![](images/SW_detail.jpg "Detail view of power switch connection")
 
