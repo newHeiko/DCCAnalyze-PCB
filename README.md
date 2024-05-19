@@ -1,16 +1,16 @@
-= DCCAnalyze hardware
+# DCCAnalyze hardware
 
 This repo contains the PCB files for a stand-alone DCC analyzer.
 
-== DCCAnalyze firmware
+## DCCAnalyze firmware
 
 The firmware can be found at [newHeiko/DCCInspector-EX](https://github.com/newHeiko/DCCInspector-EX) which is an extension of [DCC-EX/DCCInspector-EX] (https://github.com/DCC-EX/DCCInspector-EX) by the following points (some tbd).
 
 - [x] Add support for Arduino Nano Every
-- [] Add support for keys
-- [] Add support for LCD
+- [ ] Add support for keys
+- [ ] Add support for LCD
 
-== Building DCCAnalyze hardware
+## Building DCCAnalyze hardware
 
 The PCB was created with kicad 8.0, the production files with the Fabrication Toolkit.
 
