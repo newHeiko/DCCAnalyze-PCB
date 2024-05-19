@@ -16,6 +16,8 @@ The PCB was created with kicad 8.0, the production files with the Fabrication To
 
 ![](images/PCB_w_LCD.jpg "View of my first prototype")
 
+![](images/schematic.png)
+
 Most of the parts are from my box of spare and leftover parts, which is why I mixed different size SMD parts, some also rather unusual.
 
 This is the full partlist:
