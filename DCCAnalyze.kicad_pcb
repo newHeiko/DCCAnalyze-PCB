@@ -397,7 +397,7 @@
 				)
 			)
 		)
-		(property "Value" "WC1602A"
+		(property "Value" "LCD242"
 			(at -1.35 11.54 0)
 			(layer "F.Fab")
 			(uuid "3f34d4aa-c194-4c90-9ba6-c15d4b6a7c58")
@@ -432,7 +432,7 @@
 				)
 			)
 		)
-		(property "Description" "LCD 16x2 Alphanumeric , 8 bit parallel bus, 5V VDD"
+		(property "Description" "LCD 24x2 Alphanumeric , 8 bit parallel bus, 5V VDD"
 			(at 2.96 -23.12 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -444,7 +444,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "*WC*1602A*")
 		(path "/45b5d023-1da6-4df2-aaca-d53ff112b208")
+		(sheetname "Root")
+		(sheetfile "DCCAnalyze.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.46 -0.12)
@@ -3605,7 +3608,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Arduino*Nano*")
 		(path "/b42a1bd7-9e77-4cc0-a1c6-ebc159ccad45")
+		(sheetname "Root")
+		(sheetfile "DCCAnalyze.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.68 42.04)
